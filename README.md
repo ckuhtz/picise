@@ -5,11 +5,8 @@ Prototype for a time / location accessory for a Raspberry Pi 40-pin GPIO.
 <H2>Goals:</H2>
 
 - high quality time (including pps) and location source
-
 - low cost but not cheap
-
 - all 3.3VDC to keep things simple
-
 - clearance for Pi52's ICE Tower coolers
 
 <H2>Status:</H2>
