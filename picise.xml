@@ -2,7 +2,7 @@
 <export version="E">
   <design>
     <source>C:\Users\chris\Documents\Source\GitHub\picise\picise.kicad_sch</source>
-    <date>10/31/2022 2:12:45 PM</date>
+    <date>10/31/2022 2:15:47 PM</date>
     <tool>Eeschema (6.0.8)</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -168,7 +168,7 @@
       <tstamps>9356ee5a-faa1-4dd2-b82d-d6625d945675</tstamps>
     </comp>
     <comp ref="J4">
-      <value>TSM-102-01-L-SV</value>
+      <value>TSM-103-01-L-SV</value>
       <footprint>Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical_SMD_Pin1Left</footprint>
       <fields>
         <field name="MPN">TSM-102-01-L-SV</field>
