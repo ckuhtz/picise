@@ -18,7 +18,7 @@ Vertical GPIO riser with
 
 <H2>BOM:</H2>
 
-[Digikey](https://www.digikey.com/short/vf8dzz8t)
+[Digikey](https://www.digikey.com/short/rnq4tnz8)
 
 <H2>Status:</H2>
 
