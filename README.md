@@ -9,8 +9,6 @@ Prototype for a time / location accessory for a Raspberry Pi 40-pin GPIO.
 - all 3.3VDC to keep things simple
 - clearance for Pi52's ICE Tower coolers
 
-<H2>Status:</H2>
-
 Vertical GPIO riser with 
 - HAT EEPROM, 
 - GNSS, 
@@ -18,7 +16,13 @@ Vertical GPIO riser with
 - indicators for power and GNSS fix,
 - 3.3VDC fan header.
 
-Prototype boards ordered.  
+<H2>BOM:</H2>
+
+[Digikey](https://www.digikey.com/short/vf8dzz8t)
+
+<H2>Status:</H2>
+
+Prototype boards pending assembly.
 Library not published at this time.
 
 <img src="artifacts/picise%20front%20render.png?raw=true" width=50%><img src="artifacts/picise%20back%20render.png?raw=true" width=47.7%>
