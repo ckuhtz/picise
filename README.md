@@ -22,7 +22,7 @@ Vertical GPIO riser with
 
 <H2>Status:</H2>
 
-2022-11-24: rev1 ssembled, working (click on video below). Planning rev2 improvements.
+2022-11-24: rev1 assembled, working (click on video below). Planning rev2 improvements.
 
 [![working picise module showing 1 per second timing pulse with blue LED](https://img.youtube.com/vi/lg2OkTD7_zg/0.jpg)](https://www.youtube.com/shorts/lg2OkTD7_zg)
 
