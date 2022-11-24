@@ -33,7 +33,7 @@ Video:
 
 2022-11-01: rev1 prototype boards received, pending assembly.
 
-<img src="artifacts/picise%20front%20render.png?raw=true" width=50%><img src="artifacts/picise%20back%20render.png?raw=true" width=47.7%>
+<img src="artifacts/picise%20front%20render.jpg?raw=true" width=50%><img src="artifacts/picise%20back%20render.jpg?raw=true" width=47.7%>
 
 Library not published at this time.
 
