@@ -26,7 +26,7 @@ Vertical GPIO riser with
 
 PCB:
 
-<img src="artifacts/rev1%20pcb%201.jpg?raw=true" width=50%><p><img src="artifacts/rev1%20pcb%201.jpg?raw=true" width=50%>
+<img src="artifacts/rev1%20pcb%201.jpg?raw=true" width=50%><p><img src="artifacts/rev1%20pcb%202.jpg?raw=true" width=50%>
 
 Video:
 
