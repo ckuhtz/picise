@@ -25,7 +25,7 @@ Vertical GPIO riser with
 2022-11-24: rev1 assembled, working (click on video below). Planning rev2 improvements.
 
 PCB:
-<img src="artifacts/rev1%20pcb%201.jpg?raw=true" width=50%><img src="artifacts/rev1%20pcb%201.jpg?raw=true" width=50%>
+<img src="artifacts/rev1%20pcb%201.jpg?raw=true" width=50%><p><img src="artifacts/rev1%20pcb%201.jpg?raw=true" width=50%>
 
 Video:
 [![working picise module showing 1 per second timing pulse with blue LED](https://img.youtube.com/vi/lg2OkTD7_zg/0.jpg)](https://www.youtube.com/shorts/lg2OkTD7_zg)
@@ -33,7 +33,7 @@ Video:
 
 2022-11-01: rev1 prototype boards received, pending assembly.
 
-<img src="artifacts/picise%20front%20render.png?raw=true" width=50%><img src="artifacts/picise%20back%20render.png?raw=true" width=47.7%>
+<img src="artifacts/picise%20front%20render.png?raw=true" width=50%><p><img src="artifacts/picise%20back%20render.png?raw=true" width=47.7%>
 
 Library not published at this time.
 
