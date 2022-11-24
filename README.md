@@ -1,8 +1,8 @@
-<H1>Picise</H1>
+# Picise
 
 Prototype for a time / location accessory for a Raspberry Pi 40-pin GPIO.
 
-<H2>Goals:</H2>
+## Goals:
 
 - high quality time (including pps) and location source
 - low cost but not cheap
@@ -16,34 +16,34 @@ Vertical GPIO riser with
 - indicators for power and GNSS fix,
 - 3.3VDC fan header.
 
-<H2>BOM:</H2>
+## BOM:
 
 [Digikey](https://www.digikey.com/short/rnq4tnz8)
 
-<H2>Status:</H2>
+## Status:
 
-2022-11-24: rev1 assembled, working (click on video below). Planning rev2 improvements.
+**2022-11-24: rev1 assembled, working (click on video below). Planning rev2 improvements.**
 
-PCB:
+### PCB:
 
 <img src="artifacts/rev1%20pcb%201.jpg?raw=true" width=50%><p><img src="artifacts/rev1%20pcb%202.jpg?raw=true" width=50%>
 
-Video:
+### Video:
 
 [![working picise module showing 1 per second timing pulse with blue LED](https://img.youtube.com/vi/lg2OkTD7_zg/0.jpg)](https://www.youtube.com/shorts/lg2OkTD7_zg)
 
 
-2022-11-01: rev1 prototype boards received, pending assembly.
+**2022-11-01: rev1 prototype boards received, pending assembly.**
 
 <img src="artifacts/picise%20front%20render.png?raw=true" width=50%><p><img src="artifacts/picise%20back%20render.png?raw=true" width=47.7%>
 
-Library not published at this time.
+Library not published at this time.  Can't remember what has which licensing where I used stuff from vendors.
 
-<H2>License:</H2>
+## License:
 
 CC BY-SA 4.0, see [LICENSE](LICENSE) file.
 
-<H2>Inspired by:</H2>
+## Inspired by:
 
 [u-blox MAX-M10S Integration Manual](https://content.u-blox.com/sites/default/files/MAX-M10S_IntegrationManual_UBX-20053088.pdf)
 
