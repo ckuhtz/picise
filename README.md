@@ -22,12 +22,12 @@ Vertical GPIO riser with
 
 <H2>Status:</H2>
 
-2022-11-24: Assembled, working (click on video below). Planning rev2 improvements.
+2022-11-24: rev1 ssembled, working (click on video below). Planning rev2 improvements.
 
 [![working picise module showing 1 per second timing pulse with blue LED](https://img.youtube.com/vi/lg2OkTD7_zg/0.jpg)](https://www.youtube.com/shorts/lg2OkTD7_zg)
 
 
-2022-11-01: Prototype boards pending assembly.
+2022-11-01: rev1 prototype boards received, pending assembly.
 
 <img src="artifacts/picise%20front%20render.png?raw=true" width=50%><img src="artifacts/picise%20back%20render.png?raw=true" width=47.7%>
 
