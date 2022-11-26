@@ -22,6 +22,8 @@ Vertical GPIO riser with
 
 ## Status:
 
+**2022-11-25: rev2 design in progress.**
+
 **2022-11-24: rev1 assembled, working (click on video below). Planning rev2 improvements.**
 
 ### PCB:
@@ -42,9 +44,3 @@ Library not published at this time.  Can't remember what has which licensing whe
 ## License:
 
 CC BY-SA 4.0, see [LICENSE](LICENSE) file.
-
-## Inspired by:
-
-[u-blox MAX-M10S Integration Manual](https://content.u-blox.com/sites/default/files/MAX-M10S_IntegrationManual_UBX-20053088.pdf)
-
-[Sparkfun u-blox GNSS MAX-M10S](https://www.sparkfun.com/products/18037)
