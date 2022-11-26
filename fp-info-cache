@@ -1,4 +1,4 @@
-20550423528900797
+20552095750331405
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -52219,6 +52219,13 @@ Graphic LCD Display Module Transflective Black (White - Inverted) FSTN - Film Su
 0
 19
 19
+Display_OLED_Newhaven
+OLED_NHD-3.12-25664UCx2
+Graphic OLED Display Module, 3.12" diagonal, 256x64
+
+0
+20
+20
 Ferrite_THT
 LairdTech_28C0236-0JW-10
 Ferrite, vertical, LairdTech 28C0236-0JW-10, https://assets.lairdtech.com/home/brandworld/files/28C0236-0JW-10.pdf, JW Miller core https://www.bourns.com/products/magnetic-products/j.w.-miller-through-hole-ferrite-beads-emi-filters
