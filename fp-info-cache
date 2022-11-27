@@ -1,4 +1,4 @@
-20620096665688228
+20621788545379035
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -53318,6 +53318,20 @@ Fuse Fuseholder TR5 Littelfuse/Wickmann No. 460 No560
 0
 2
 2
+Graphics
+by-sa 15x5.2
+
+
+0
+0
+0
+Graphics
+by-sa large
+
+
+0
+0
+0
 Heatsink
 Heatsink_35x26mm_1xFixation3mm_Fischer-SK486-35
 Heatsink, 35mm x 26mm, 1x Fixation 3mm, Fischer SK486-35
@@ -58365,6 +58379,13 @@ ESP8266 WiFi microcontroller
 0
 16
 16
+Motors
+Vybronics_VZ30C1T8219732L
+Vibration motor, 2.3-3.2V, 14000rpm, 0.7G, https://www.vybronics.com/wp-content/uploads/datasheet-files/Vybronics-VZ30C1T8219732L-datasheet.pdf
+vibration motor Vybronics
+0
+12
+3
 MountingEquipment
 DINRailAdapter_3xM3_PhoenixContact_1201578
 https://www.phoenixcontact.com/online/portal/us?uri=pxc-oc-itemdetail:pid=1201578&library=usen&tab=1
@@ -61152,13 +61173,6 @@ PhotoDiode plastic SMD DIL
 6
 2
 OptoDevice
-Osram_SMD-DIL2_4.5x4.0mm
-PhotoDiode, plastic SMD DIL, 4.5x4mm²
-PhotoDiode plastic SMD DIL
-0
-2
-2
-OptoDevice
 Osram_SMD-SmartDIL
 PhotoDiode, plastic SMD SmatDIL
 PhotoDiode plastic SMD SmatDIL
@@ -63118,13 +63132,6 @@ LFCSP-WD NoLead
 0
 24
 11
-Package_CSP
-Maxim_WLCSP-32_3.0x2.17mm_Layout7x5_P0.4mm_Ball0.27mm_Pad0.25mm
-WLCSP-32, 2.168x2.998mm, 35 Ball, 7x5 Layout, 0.4mm Pitch, https://pdfserv.maximintegrated.com/package_dwgs/21-100489.PDF
-CSP 35 0.4
-0
-35
-35
 Package_CSP
 Maxim_WLCSP-35_3.0x2.17mm_Layout7x5_P0.4mm_Ball0.27mm_Pad0.25mm
 WLCSP-35, 2.168x2.998mm, 35 Ball, 7x5 Layout, 0.4mm Pitch, https://pdfserv.maximintegrated.com/package_dwgs/21-100489.PDF
